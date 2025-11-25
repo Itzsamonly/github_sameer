@@ -1,1 +1,7 @@
-print("hello dosto,kya haal chaal bhai log")
+git add filename 
+git init
+git commit -m "message"
+git log
+git switch "filename"
+git status
+
