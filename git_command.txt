@@ -1,0 +1,14 @@
+108  git status
+  109  rm -rf "Saurabh_Kumar_Devops (1).pdf"
+  110  rm -rf "Saurabh_Kumar_Devops (2).pdf"
+  111  ls
+  112  ll
+  113  ls -l
+  114  cd github_sameer
+  117  git status 
+  118  git add testing.py
+  119  git status
+  120  git commit "this is command files"
+  121  git commit -m "this is command files"
+  122  git status
+  123  touch git_command.txt
